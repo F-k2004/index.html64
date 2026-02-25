@@ -14,7 +14,7 @@ canvas{display:block}
  color:#d9f3ff;font-size:13px;min-width:520px;
 }
 .good{color:#9ff0ff}
-.md{color:#ffd29f}
+.mid{color:#ffd29f}
 .bad{color:#ff9f9f}
 .storm{color:#ffcc66}
 </style>
